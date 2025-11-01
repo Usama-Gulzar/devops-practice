@@ -1,1 +1,2 @@
 Hello from Linux Git!
+Welcome to DevOps! Let's automate everything.
